@@ -1,0 +1,102 @@
+body {
+    font-family: 'Questrial', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./pattern.jpg);
+}
+
+.banner-left-background {
+  background-color: rgb(4, 37, 51);
+}
+
+h1 {
+  color: rgb(0, 255, 221);
+}
+
+h2 {
+  color: rgb(180, 173, 173);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+span {
+  color: rgb(153, 77, 6);
+}
+.banner-left-block {
+  display: block;
+  padding-top: 30vh;
+}
+
+.banner {
+  position: relative;
+  background-image: url(https://images.unsplash.com/photo-1554844453-7ea2a562a6c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80);
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode:hard-light;
+}
+
+.my-work {
+  color: rgb(255, 255, 255);
+  background-color: rgb(3, 47, 68);
+
+}
+
+.post {
+  background-color: rgb(94, 94, 97);
+}
+
+p {
+  padding-top: 20px;
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.a-post {
+  display: block;
+  background-image: url(https://source.unsplash.com/1600x900/?nature,water);
+  background-position: center;
+  background-size: cover;
+  min-height: 50vh;
+}
+
+.b-post {
+  display: block;
+  background-image: url(https://source.unsplash.com/1600x900/?nature,trees);
+  background-position: center;
+  background-size: cover;
+  min-height: 50vh;
+}
+
+.c-post {
+  display: block;
+  background-image: url(https://source.unsplash.com/1600x900/?nature,flowers);
+  background-position: center;
+  background-size: cover;
+  min-height: 50vh;
+}
+
+.d-post { 
+  display: block;
+  background-image: url(https://source.unsplash.com/1600x900/?nature,animals);
+  background-position: center;
+  background-size: cover;
+  min-height: 50vh;
+  
+}
+.footer-background {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(4, 37, 51);
+}
