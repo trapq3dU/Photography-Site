@@ -20,7 +20,7 @@ h2 {
 
 a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 a:hover{
@@ -103,4 +103,12 @@ p {
 .header-background {
   margin-top: 0px;
   background-color: rgb(4, 37, 51);
+}
+
+h3 {
+  color: rgb(74, 75, 77);
+}
+
+h3 > a {
+  color: rgb(53, 83, 4);
 }
