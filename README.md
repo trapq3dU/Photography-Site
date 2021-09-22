@@ -6,4 +6,6 @@
 * CSS
 * Bootstrap
 
+# *Hosted Link:*
+
 This project hosted [here](https://trapq3du-photography-site.netlify.app/ "Tanmay's Photography")
